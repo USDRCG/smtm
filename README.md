@@ -4,7 +4,7 @@ http://guides.library.tamu.edu/content.php?pid=377922&sid=3095711
 
 Using these R modules:
 
-* Install fro mwithin R with `install.packages("tm", dependencies=TRUE)`
+* Install from within R with `install.packages("tm", dependencies=TRUE)`
 * Or install binary packages from command line (bash) with: `R CMD INSTALL packagename.tgz`
 * [tm](https://cran.r-project.org/package=tm)
 * [topicmodel](https://cran.r-project.org/package=topicmodels)
